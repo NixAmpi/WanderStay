@@ -1,0 +1,74 @@
+# Dependencies
+node_modules/
+vendor/
+.venv/
+venv/
+__pycache__/
+
+# Build output
+dist/
+build/
+out/
+.next/
+.cache/
+coverage/
+
+# Environment and secrets (keep .env.example)
+.env
+.env.local
+.env.*.local
+.env.production
+*.pem
+*.key
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS and editor files
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Original images replaced by the optimized copies in img/ and no longer used by
+# any page. They stay on disk locally but are not part of the repository.
+/Around-the-World-in-80-Days_horizontal-2.jpg
+/Infinitypools_640.jpg
+/bg3.jpg
+/bg4.jpg
+/global.png
+/image100.png
+/image74.png
+/image75.png
+/image76.png
+/image77.png
+/image78.png
+/image79.png
+/image80.png
+/image81.png
+/image82.png
+/image83.png
+/image84.png
+/image85.png
+/image86.png
+/image87.png
+/image88.png
+/image89.png
+/image90.png
+/image91.png
+/image92.png
+/image93.png
+/image94.png
+/image95.png
+/image96.png
+/image97.png
+/image98.png
+/image99.png
+/infiniti-pool.jpg
+/infinity-pool-01.jpg
+/maya-logo-black.001.png
+/pexels-arabiclogos-453201.jpg
+/pexels-muffin-2468773.jpg
+/gcash.png

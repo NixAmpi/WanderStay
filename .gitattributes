@@ -1,0 +1,10 @@
+# Normalize line endings in the repository; check out with the OS default.
+* text=auto
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
